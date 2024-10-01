@@ -83,11 +83,6 @@ const connectToClient = () => {
 
     client.on("error", (err) => {
         console.error("Error:", err.message);
-        if (err.code === "ECONNREFUSED") {
-            console.log("Server is down. Retrying connection...");
-            setTimeout(connectToClient, 1500);
-        } else {
-        }
     });
 };
 
