@@ -1,0 +1,34 @@
+[2024-10-01T07:41:31.008Z] Connected to server
+[2024-10-01T07:41:31.037Z] Requested all packets from server.
+[2024-10-01T07:41:31.040Z] Detected missing packet with sequence 1
+[2024-10-01T07:41:31.040Z] Received packet: Symbol=AAPL, Seq=2
+[2024-10-01T07:41:31.041Z] Detected missing packet with sequence 3
+[2024-10-01T07:41:31.041Z] Received packet: Symbol=AAPL, Seq=4
+[2024-10-01T07:41:31.042Z] Received packet: Symbol=META, Seq=5
+[2024-10-01T07:41:31.043Z] Received packet: Symbol=META, Seq=6
+[2024-10-01T07:41:31.044Z] Detected missing packet with sequence 7
+[2024-10-01T07:41:31.044Z] Received packet: Symbol=MSFT, Seq=8
+[2024-10-01T07:41:31.045Z] Received packet: Symbol=MSFT, Seq=9
+[2024-10-01T07:41:31.045Z] Received packet: Symbol=MSFT, Seq=10
+[2024-10-01T07:41:31.046Z] Detected missing packet with sequence 11
+[2024-10-01T07:41:31.046Z] Detected missing packet with sequence 12
+[2024-10-01T07:41:31.047Z] Detected missing packet with sequence 13
+[2024-10-01T07:41:31.048Z] Received packet: Symbol=AMZN, Seq=14
+[2024-10-01T07:41:31.049Z] Disconnected from server
+[2024-10-01T07:41:31.050Z] Reconnecting to request missing packets...
+[2024-10-01T07:41:32.060Z] Connected to server
+[2024-10-01T07:41:32.061Z] Requested missing packet with sequence 1
+[2024-10-01T07:41:32.062Z] Requested missing packet with sequence 3
+[2024-10-01T07:41:32.063Z] Requested missing packet with sequence 7
+[2024-10-01T07:41:32.066Z] Requested missing packet with sequence 11
+[2024-10-01T07:41:32.067Z] Requested missing packet with sequence 12
+[2024-10-01T07:41:32.068Z] Requested missing packet with sequence 13
+[2024-10-01T07:41:32.070Z] Received packet: Symbol=AAPL, Seq=1
+[2024-10-01T07:41:32.071Z] Received packet: Symbol=AAPL, Seq=3
+[2024-10-01T07:41:32.071Z] Received packet: Symbol=META, Seq=7
+[2024-10-01T07:41:32.072Z] Received packet: Symbol=AMZN, Seq=11
+[2024-10-01T07:41:32.073Z] Received packet: Symbol=AMZN, Seq=12
+[2024-10-01T07:41:32.074Z] Received packet: Symbol=AMZN, Seq=13
+[2024-10-01T07:41:34.083Z] No activity for 2 seconds. Closing connection.
+[2024-10-01T07:41:34.086Z] Disconnected from server
+[2024-10-01T07:41:34.089Z] Saved packet data to packetData.json
