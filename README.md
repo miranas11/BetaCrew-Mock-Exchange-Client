@@ -2,7 +2,7 @@
 
 Before running the application, ensure that you have the following installed:
 - **BetaCrew Exchange Server** running on port 3000
-- **Node.js** (v12 or higher)
+- **Node.js** (v16 or higher)
 
 
 ## Installation
